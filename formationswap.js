@@ -1,5 +1,6 @@
 (function(){
  var container = document.getElementById('tactica');
+ container.parentElement.parentElement.style.height="380px";
  var div = document.createElement('div');
  var pos1 = document.createElement('input');
  pos1.id = 'pos1';
