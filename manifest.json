@@ -1,8 +1,8 @@
 {
-  "name": "Striker Manager Formation Swap and Tactics Export",
+  "name": "Striker Manager Formation/Tactics Helper",
   "version": "1.0.0",
   "manifest_version": 2,
-  "description": "Striker Manager Tactics and Formation enhancement",
+  "description": "Striker Manager Formation Swap and Tactics Export",
   "content_scripts": [
     {
       "matches" : ["http://*.strikermanager.com/tactica2.php?id_tactica=*"],
